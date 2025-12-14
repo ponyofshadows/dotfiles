@@ -1,0 +1,19 @@
+[[plugin.deps]]
+use = "Rolv-Apneseth/starship"
+rev = "a63550b"
+hash = "c2021386289a0cbb3e152a052f67c177"
+
+[[plugin.deps]]
+use = "DreamMaoMao/easyjump"
+rev = "6606fb1"
+hash = "9209d17be3c792eda9ad60b447c4db1e"
+
+[[plugin.deps]]
+use = "yazi-rs/plugins:smart-enter"
+rev = "e95c7b3"
+hash = "56fdabc96fc1f4d53c96eb884b02a5be"
+
+[[flavor.deps]]
+use = "bennyyip/gruvbox-dark"
+rev = "91fdfa7"
+hash = "f48f510e5505f5d01e79c4f8257ec5cb"
