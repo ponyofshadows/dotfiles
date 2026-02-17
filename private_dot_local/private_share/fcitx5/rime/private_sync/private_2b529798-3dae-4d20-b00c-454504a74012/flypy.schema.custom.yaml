@@ -1,0 +1,4 @@
+patch:
+  key_binder/bindings:
+    __patch: -
+    - {accept: Shift_R, send: Escape, when: composing}
